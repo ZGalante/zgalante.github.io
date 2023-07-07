@@ -1,6 +1,5 @@
 title: "Zachary Galante"
 author: "Blog Author"
-description: "University of California, Berkeley"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

@@ -3,6 +3,9 @@ title: "Zachary Galante"
 layout: post
 ---
 `![title](/assets/Headshot.jpeg)`
+
+
+
 I am currently a Technical Account Manager (Data Scientist) at IBM and a part time graduate student at UC Berkeley also studying data science. In my current role I work as the Data Scientist on interdisciplinary teams developing solutions for clients.
 
 

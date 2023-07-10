@@ -2,7 +2,7 @@
 title: "Zachary Galante"
 layout: post
 ---
-![Headshot](https://github.com/ZGalante/zgalante.github.io/blob/master/assets/Headshot.jpeg?raw=true=250x250)
+![Headshot](https://github.com/ZGalante/zgalante.github.io/blob/master/assets/Headshot.jpeg?raw=true=75x75)
 
 
 

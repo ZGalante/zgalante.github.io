@@ -1,12 +1,10 @@
 ---
-title:  "NFL Big Data Bowl"
+title:  "Personal Projects"
 layout: post
 ---
-
-I am currently a Technical Account Manager (Data Scientist) at IBM and a part time graduate student at UC Berkeley also studying data science. In my current role I work as the Data Scientist on interdisciplinary teams developing solutions for clients. 
-
+Included are personal projects that have been submitted to competitions such as the NFL Big Data Bowl and the Horizon Summit. 
 
 
 
 
-I've worked on projects in various domains where I've applied both data science and machine learning techniques at scale. Throughout my academic studies, I've gained a deep understanding of the overall machine learning pipeline and 
+Submitted to the 2023 NFL Big Data Bowl, this project uses player tracking data to create an evaluation metric for offensive linemen. With data collected each millisecond, 

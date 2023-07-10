@@ -2,7 +2,7 @@
 title: "Zachary Galante"
 layout: post
 ---
-`![title](/https://github.com/ZGalante/zgalante.github.io/blob/master/assets/Headshot.jpeg)`
+![Headshot](https://github.com/ZGalante/zgalante.github.io/blob/master/assets/Headshot.jpeg?raw=true)
 
 
 

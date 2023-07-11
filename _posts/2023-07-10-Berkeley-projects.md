@@ -1,8 +1,23 @@
 ---
-title:  "School Projects"
+title:  "Machine Learning Projects at Scale"
 layout: post
 ---
-This section includes machine learning projects during my time in the UC Berkeley Master in Information and Data Science (MIDS) program.
+This section includes machine learning projects done at scale using tools such as PySpark and Hadoop. 
+
+## Flight Delay Prediction
+
+Working with over 1 billion records with 200 features (1 TB of data), I used PySpark to create a modeling pipeline predicting flight delays at scale. This included an intense amount of data preprocessing, as there were several data sources being used and required cleaning, transforming, and joining data. We also created important features such as a personalized page rank graph, and reputation score for each airline. A major consideration during the project was data leakage, and ensuring that no future data was included during training and feature engineering. 
+
+## Spam Detection
+
+
+
+## Synonym Detection
+
+
+
+
+
 
 ## Brain Tumor Detection
 Throughout this project I worked on a team using computer vision concepts to detect if an MRI contained a tumor. We used a dataset of over 4,500 images to construct a convolutional neural network to acheive a recall score of 99%. Shown below is the general architecture of the model used to achieve the described results. The full project repo can be found [here.](https://github.com/ZGalante/github-portfolio/tree/main/Brain_Tumor_Detection)

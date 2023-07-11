@@ -24,4 +24,7 @@ Using a transfer learning approach, this project leverages player tracking data 
 Working alongside college football coaches, I created an end to end machine learning pipeline to predict if an opposing team was going to run or the pass the ball. Data was gathered by scraping the ESPN website for play by play details, which was then used to train a neural network. This pre-trained network was then leveraged to make individual predictions at inference. Coaches were then able to use the created flask application to generate play sheets for a given opponent. 
 
 
-[Live Demo](https://studio.youtube.com/video/kNb_ZNog_ng/edit)
+
+<iframe width="640" height="385"
+src="https://www.youtube.com/embed/Zd3k7lRmWhk">
+</iframe>

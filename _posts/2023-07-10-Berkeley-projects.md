@@ -10,12 +10,10 @@ Working with over 1 billion records with 200 features (1 TB of data), I used PyS
 
 ## Spam Detection
 
+This project used Hadoop and low level map reduce concepts to predict an email as being spam. This required creating custom mappers and reducers and orchestrating the communication between them. Using a naive bayes model from scratch, I was able to achieve an F-1 score of 0.88. 
 
 
 ## Synonym Detection
-
-
-
 
 
 

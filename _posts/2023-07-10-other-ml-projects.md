@@ -26,5 +26,7 @@ Working alongside college football coaches, I created an end to end machine lear
 
 
 <iframe width="640" height="385"
-src="https://www.youtube.com/embed/Zd3k7lRmWhk">
+src="https://www.youtube.com/watch?v=kNb_ZNog_ng">
 </iframe>
+
+

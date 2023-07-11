@@ -25,6 +25,6 @@ Working alongside college football coaches, I created an end to end machine lear
 
 
 
-<iframe width="1000" height="400" src="https://www.youtube.com/embed/kNb_ZNog_ng" title="PAC_Predictions Live Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/kNb_ZNog_ng" title="PAC_Predictions Live Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 

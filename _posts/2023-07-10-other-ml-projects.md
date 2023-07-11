@@ -3,9 +3,7 @@ title:  "Publications and Contests"
 layout: post
 ---
 This section features projects that have been publsihed to peer-reviewed journals and submitted to machine learning contests. 
-
 ## Hit Song Science
-
 - Fast tracked for journal publication in Volume 22 of the [Issues in Information Systems (IIS)](https://digitalcommons.bryant.edu/cgi/viewcontent.cgi?article=1043&context=cisjou) 
 - A related teaching case was published in Volume 20 of [Information Systems Education Journal (ISEDJ)](https://files.eric.ed.gov/fulltext/EJ1351062.pdf)
 

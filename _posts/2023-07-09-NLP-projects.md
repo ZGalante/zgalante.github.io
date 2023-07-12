@@ -6,11 +6,5 @@ Below are projects using natrual language processing. Subjects range from text c
 
 ## IMDB Movie Review Classification
 
-This project uses embeddings from a pre-trained BERT model 
-
-
-## Horizon Summit (San Francisco 49ers)
-
-Working alongside college football coaches, I created an end to end machine learning pipeline to predict if an opposing team was going to run or the pass the ball. Data was gathered by scraping the ESPN website for play by play details, which was then used to train a neural network. This pre-trained network was then leveraged to make individual predictions at inference. Coaches were then able to use the created flask application to generate play sheets for a given opponent. 
-
+This project uses embeddings from a pre-trained BERT model to perform a sentiment analysis on movie reviews. This was accomplished using a BERT model as a baseline, and then passing the learned embeddings to a convolutional neural network for classification. 
 

@@ -1,5 +1,5 @@
 ---
-title: "Blah"
+title: "About"
 layout: post
 ---
 <img src="https://github.com/ZGalante/zgalante.github.io/blob/master/assets/Headshot.jpeg?raw=true" width="250" height="250">

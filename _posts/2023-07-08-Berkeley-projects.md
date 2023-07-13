@@ -13,9 +13,6 @@ Working with over 1 billion records with 200 features (1 TB of data), I used PyS
 This project used Hadoop and low level map reduce concepts to predict an email as being spam. This required creating custom mappers and reducers and orchestrating the communication between them. Using a naive bayes model from scratch, I was able to achieve an F-1 score of 0.88. 
 
 
-## Synonym Detection
-In this project I used PySpark to conduct synonym detection on Google's n-gram corpus by using several similarity metrics, such as Overlap, Dice, Cosine, and Jaccard. Due to the size of the corpus, this project relied on optimization strategies such as inverted indices to illistrate co-occurence. 
-
 
 ## Brain Tumor Detection
 Throughout this project I worked on a team using computer vision concepts to detect if an MRI contained a tumor. We used a dataset of over 4,500 images to construct a convolutional neural network to acheive a recall score of 99%. Shown below is the general architecture of the model used to achieve the described results. The full project repo can be found [here.](https://github.com/ZGalante/github-portfolio/tree/main/Brain_Tumor_Detection)

@@ -19,9 +19,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Google Scholar, icon: diploma, url: "/feed.xml"}
+  - {title: Mail, url: "mailto:ZGalante@Berkeley.edu"}
+  - {title: LinkedIn ,url: "https://www.linkedin.com/in/zachary-galante/"}
+  - {title: Google Scholar, url: "https://scholar.google.com/citations?user=KS_fWhYAAAAJ&hl=en&oi=ao"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

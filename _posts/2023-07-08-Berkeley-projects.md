@@ -6,7 +6,7 @@ This section includes machine learning projects done at scale using tools such a
 
 ## Flight Delay Prediction
 
-Working with over 1 billion records with 200 features (1 TB of data), I used PySpark to create a modeling pipeline predicting flight delays at scale. This included an intense amount of data preprocessing, as there were several data sources being used and required cleaning, transforming, and joining data. We also created important features such as a personalized page rank graph, and reputation score for each airline. A major consideration during the project was data leakage, and ensuring that no future data was included during training and feature engineering. 
+Working with over 1 billion records with 200 features (1 TB of data), I used PySpark to create a modeling pipeline predicting flight delays at scale. This included an intense amount of data preprocessing, as there were several data sources being used and required cleaning, transforming, and joining data. I also created important features such as a personalized page rank graph, and reputation score for each airline. A major consideration during the project was data leakage, and ensuring that no future data was included during training and feature engineering. 
 
 ## Spam Detection
 
@@ -14,7 +14,7 @@ This project used Hadoop and low level map reduce concepts to predict an email a
 
 
 ## Synonym Detection
-
+In this project I used PySpark to conduct synonym detection on Google's n-gram corpus by using several similarity metrics, such as Overlap, Dice, Cosine, and Jaccard. Due to the size of the corpus, this project relied on optimization strategies such as inverted indices to illistrate co-occurence. 
 
 
 ## Brain Tumor Detection

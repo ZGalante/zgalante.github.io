@@ -14,3 +14,8 @@ to major internal and external stakeholders.
 
 ## Seller's Dashboard
 Built using Flask, Plotly, and Pandas, the seller's dashboard is an internal tool used during contract negotiations with clients. I recently took over as the lead developer for the project, having the responsibility of developing new features, and updating each month with current data. To date, the tool has helped to close 4 major renewal negotiations with clients. 
+
+# UC Berkeley School of Information
+
+In addition to my role as a student at UC Berkeley, I am also a Teaching Assistant for the advanced course, [Machine Learning at Scale](https://www.ischool.berkeley.edu/courses/datasci/261?page=1). In this course, students gain hands on experience implementing machine learning algorithms on large datasets using Apache Spark and Hadoop. In my current role as a Teaching Assistant I focus on assisting students by guiding them through homeworks and providing feedback through grading. In addition, I help refine current material to advance the development of the course. 
+

@@ -7,6 +7,8 @@ Below are projects using Natural Language Processing and Generative AI. Subjects
 ## Hate Speech Moderation 
 During this project I worked on a team conducting research on how to classify hateful tweets. We learned that this problem had been attempted in the past using traditional machine learning models, but saw the opportunity to apply modern architectures. We fine-tuned foundation models such as BERT and BERTweet to understand the parts of a tweet that would signify hate. We found that the learned BERT embeddings combined with a convolutional neural network proved to be one of our best models, achieving a ROGUE score of 0.539. Finally, we visualized the model's attention to understand it's performance and help improve classifications, as shown below. 
 
+The full paper can be found [https://github.com/ZGalante/zgalante.github.io/blob/master/assets/Moderating%20Hate%20Speech%20on%20Social%20Media.pdf]('here'). Please be warned that it does include hateful text found in tweets. 
+
 <img src="https://github.com/ZGalante/zgalante.github.io/blob/master/assets/Attention_visualization.png?raw=true" width="900" height="300">
 
 ## IMDB Movie Review Classification
